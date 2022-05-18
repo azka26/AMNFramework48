@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: "Home"
+permalink: /index.md
+
+title: "About"
+permalink: "/about.md"
