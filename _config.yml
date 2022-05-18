@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
+layout: page
 title: "Home"
 permalink: /index.md
 
+layout: page
 title: "About"
 permalink: "/about.md"
